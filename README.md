@@ -2,7 +2,7 @@
 ESP8266 Web server to serve HTML page and send commands
 
 
-Link: [ESP8266 Web Server: send commands and serve HTML Page](https://arduino-iot.tech/esp8266-web-server/)
+Link: [ESP8266 Web Server: send commands and serve HTML Page](https://www.survivingwithandroid.com/esp8266-web-server/)
 
 [![Build Status](https://travis-ci.org/survivingwithandroid/ESP8266-Web-server.svg?branch=master)](https://travis-ci.org/survivingwithandroid/ESP8266-Web-server)
 
